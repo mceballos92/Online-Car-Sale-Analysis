@@ -7,3 +7,8 @@ I will work on the first one.
 I will create a python file using Jupyter notebook and continue on.
 
 I created a python to answer one of the three high level question, which number is number 1. There are by most listed, ratings, and engine size. I also added graphs and a plot. Hope this works.
+
+This may be done by Drish- 04/06/2025- Define what is a popular car listing. Is it the number of listings of certain types of car?
+Rating? Or something else? 
+
+
