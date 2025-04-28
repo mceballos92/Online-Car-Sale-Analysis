@@ -31,5 +31,17 @@ sellername	make	model	year	price
 18	ABZ Motors	Mercedes-Benz	E-Class E 300	2017	$29,991
 19	AE of Miami	Cadillac	XT4 Premium Luxury	2019	$13,950
 
+April 27, 2025: Executed a list of the make with the most listings.
+
+Top 5 car makes with the most listings:
+make
+BMW              944
+Mercedes-Benz    810
+Toyota           797
+Honda            713
+Ford             580
+
+
+
 
 
