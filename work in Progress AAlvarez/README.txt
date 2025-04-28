@@ -41,6 +41,20 @@ Toyota           797
 Honda            713
 Ford             580
 
+Another data set I got: The histogram shows how car prices are spread across your dataset.
+
+Each bar represents a price range (like $10,000–$15,000, $15,000–$20,000, etc.).
+
+The height of each bar shows how many cars fall into that price range.
+
+
+The histogram shows how car prices are spread across your dataset.
+
+Each bar represents a price range (like $10,000–$15,000, $15,000–$20,000, etc.).
+
+The height of each bar shows how many cars fall into that price range.
+
+
 
 
 
